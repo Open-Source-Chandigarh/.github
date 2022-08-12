@@ -3,8 +3,8 @@
 
 
 # 🙋‍♀️ A short introduction - what is your organization all about?
-
-The Open-Source Chandigarh community, powered by Chitkara University, has been started with the vision to create a rich demographic of open-source practitioners in the Tricity. GitHub India, Apache Community Initiatives, Docker Inc. and OpsTree are the community partners of Open-Source Chandigarh community who will be supporting this initiative.
+![](Images/Open-Source-Chandigarh.jpeg)
+### *The Open-Source Chandigarh community, powered by Chitkara University, has been started with the vision to create a rich demographic of open-source practitioners in the Tricity. GitHub India, Apache Community Initiatives, Docker Inc. and OpsTree are the community partners of Open-Source Chandigarh community who will be supporting this initiative.*
 
 <!---🌈 Contribution guidelines - how can the community get involved?
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
