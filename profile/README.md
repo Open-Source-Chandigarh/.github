@@ -1,10 +1,9 @@
 ## Hi Folks 👋
 
-
-
 # 🙋‍♀️ A short introduction - what is your organization all about?
 <!---![](Images/Open-Source-Chandigarh.jpeg)--->
-![Open-Source-Chandigarh](https://user-images.githubusercontent.com/91736425/184363962-9105fbaa-9dcd-4503-ab75-3aa731e769f0.jpeg)
+<!---![Open-Source-Chandigarh](https://user-images.githubusercontent.com/91736425/184363962-9105fbaa-9dcd-4503-ab75-3aa731e769f0.jpeg)--->
+![O-S-C](https://user-images.githubusercontent.com/91736425/184543786-696b598e-2d74-444a-8da9-8a1156b8967a.jpeg)
 > ### *The Open-Source Chandigarh community, powered by Chitkara University, has been started with the vision to create a rich demographic of open-source practitioners in the Tricity. GitHub India, Apache Community Initiatives, Docker Inc. and OpsTree are the community partners of Open-Source Chandigarh community who will be supporting this initiative.*
 
 <!---🌈 Contribution guidelines - how can the community get involved?
@@ -17,3 +16,5 @@
 <a href="https://www.linkedin.com/company/open-source-chandigarh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="company/open-source-chandigarh" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.com/invite/gQHsr8EHzr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/invite/gQHsr8EHzr" height="30" width="40" /></a>
 </p>
+
+
