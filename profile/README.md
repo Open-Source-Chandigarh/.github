@@ -1,5 +1,5 @@
-![stars](https://img.shields.io/github/stars/Open-Source-Chandigarh/.github)
-![forks](https://img.shields.io/github/forks/Open-Source-Chandigarh/.github)
+![stars](https://img.shields.io/github/stars/Open-Source-Chandigarh)
+![forks](https://img.shields.io/github/forks/Open-Source-Chandigarh)
 ![issues](https://img.shields.io/github/issues/Open-Source-Chandigarh/.github)
 ![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=Open-Source-Chandigarh..github)
 ![GitHub contributors](https://img.shields.io/github/contributors/Open-Source-Chandigarh/.github)
