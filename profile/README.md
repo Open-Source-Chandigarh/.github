@@ -30,47 +30,25 @@
 
 # People 👤
 <div class="clearfix d-flex flex-wrap" style="margin: -1px">
-          <a class="member-avatar" data-ga-click="Orgs, go to person, location:profile people module; text:username" data-hovercard-type="user" data-hovercard-url="/users/ajeetraina/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/orgs/Open-Source-Chandigarh/people/ajeetraina">
-            <img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/313480?s=70&amp;v=4" width="35" height="35" alt="@ajeetraina">
-</a>          <a class="member-avatar" data-ga-click="Orgs, go to person, location:profile people module; text:username" data-hovercard-type="user" data-hovercard-url="/users/MonitKapoor/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/orgs/Open-Source-Chandigarh/people/MonitKapoor">
-            <img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/14229960?s=70&amp;v=4" width="35" height="35" alt="@MonitKapoor">
-</a>          <a class="member-avatar" data-ga-click="Orgs, go to person, location:profile people module; text:username" data-hovercard-type="user" data-hovercard-url="/users/aryankaushikdev/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/orgs/Open-Source-Chandigarh/people/aryankaushikdev">
-            <img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/37568514?s=70&amp;v=4" width="35" height="35" alt="@aryankaushikdev">
-</a>          <a class="member-avatar" data-ga-click="Orgs, go to person, location:profile people module; text:username" data-hovercard-type="user" data-hovercard-url="/users/1tsak/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/orgs/Open-Source-Chandigarh/people/1tsak">
-            <img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/42407874?s=70&amp;v=4" width="35" height="35" alt="@1tsak">
-</a>          <a class="member-avatar" data-ga-click="Orgs, go to person, location:profile people module; text:username" data-hovercard-type="user" data-hovercard-url="/users/harshit0571/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/orgs/Open-Source-Chandigarh/people/harshit0571">
-            <img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/62325935?s=70&amp;v=4" width="35" height="35" alt="@harshit0571">
-</a>          <a class="member-avatar" data-ga-click="Orgs, go to person, location:profile people module; text:username" data-hovercard-type="user" data-hovercard-url="/users/mkgupta01/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/orgs/Open-Source-Chandigarh/people/mkgupta01">
-            <img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/66107976?s=70&amp;v=4" width="35" height="35" alt="@mkgupta01">
-</a>          <a class="member-avatar" data-ga-click="Orgs, go to person, location:profile people module; text:username" data-hovercard-type="user" data-hovercard-url="/users/AvinashKumar0923/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/orgs/Open-Source-Chandigarh/people/AvinashKumar0923">
-            <img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/71658168?s=70&amp;v=4" width="35" height="35" alt="@AvinashKumar0923">
-</a>          <a class="member-avatar" data-ga-click="Orgs, go to person, location:profile people module; text:username" data-hovercard-type="user" data-hovercard-url="/users/SrijanSamridh/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/orgs/Open-Source-Chandigarh/people/SrijanSamridh">
-            <img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/74289654?s=70&amp;v=4" width="35" height="35" alt="@SrijanSamridh">
-</a>          <a class="member-avatar" data-ga-click="Orgs, go to person, location:profile people module; text:username" data-hovercard-type="user" data-hovercard-url="/users/IshanSingla/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/orgs/Open-Source-Chandigarh/people/IshanSingla">
-            <img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/79676239?s=70&amp;v=4" width="35" height="35" alt="@IshanSingla">
-</a>          <a class="member-avatar" data-ga-click="Orgs, go to person, location:profile people module; text:username" data-hovercard-type="user" data-hovercard-url="/users/guranshdeol/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/orgs/Open-Source-Chandigarh/people/guranshdeol">
-            <img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/91736425?s=70&amp;v=4" width="35" height="35" alt="@guranshdeol">
-</a>          <a class="member-avatar" data-ga-click="Orgs, go to person, location:profile people module; text:username" data-hovercard-type="user" data-hovercard-url="/users/tanishksahni/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/orgs/Open-Source-Chandigarh/people/tanishksahni">
-            <img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/92090722?s=70&amp;v=4" width="35" height="35" alt="@tanishksahni">
-</a>          <a class="member-avatar" data-ga-click="Orgs, go to person, location:profile people module; text:username" data-hovercard-type="user" data-hovercard-url="/users/harshraj29/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/orgs/Open-Source-Chandigarh/people/harshraj29">
-            <img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/93452151?s=70&amp;v=4" width="35" height="35" alt="@harshraj29">
-</a>          <a class="member-avatar" data-ga-click="Orgs, go to person, location:profile people module; text:username" data-hovercard-type="user" data-hovercard-url="/users/anshu049/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/orgs/Open-Source-Chandigarh/people/anshu049">
-            <img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/95365748?s=70&amp;v=4" width="35" height="35" alt="@anshu049">
-</a>          <a class="member-avatar" data-ga-click="Orgs, go to person, location:profile people module; text:username" data-hovercard-type="user" data-hovercard-url="/users/aasthaanand09/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/orgs/Open-Source-Chandigarh/people/aasthaanand09">
-            <img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/95748206?s=70&amp;v=4" width="35" height="35" alt="@aasthaanand09">
-</a>          <a class="member-avatar" data-ga-click="Orgs, go to person, location:profile people module; text:username" data-hovercard-type="user" data-hovercard-url="/users/Harshitkant21/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/orgs/Open-Source-Chandigarh/people/Harshitkant21">
-            <img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/96339258?s=70&amp;v=4" width="35" height="35" alt="@Harshitkant21">
-</a>          <a class="member-avatar" data-ga-click="Orgs, go to person, location:profile people module; text:username" data-hovercard-type="user" data-hovercard-url="/users/siddh61103/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/orgs/Open-Source-Chandigarh/people/siddh61103">
-            <img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/96472929?s=70&amp;v=4" width="35" height="35" alt="@siddh61103">
-</a>          <a class="member-avatar" data-ga-click="Orgs, go to person, location:profile people module; text:username" data-hovercard-type="user" data-hovercard-url="/users/s-Himansh/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/orgs/Open-Source-Chandigarh/people/s-Himansh">
-            <img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/96992304?s=70&amp;v=4" width="35" height="35" alt="@s-Himansh">
-</a>          <a class="member-avatar" data-ga-click="Orgs, go to person, location:profile people module; text:username" data-hovercard-type="user" data-hovercard-url="/users/abhay-ag/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/orgs/Open-Source-Chandigarh/people/abhay-ag">
-            <img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/97821733?s=70&amp;v=4" width="35" height="35" alt="@abhay-ag">
-</a>          <a class="member-avatar" data-ga-click="Orgs, go to person, location:profile people module; text:username" data-hovercard-type="user" data-hovercard-url="/users/MG2356/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/orgs/Open-Source-Chandigarh/people/MG2356">
-            <img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/98271284?s=70&amp;v=4" width="35" height="35" alt="@MG2356">
-</a>          <a class="member-avatar" data-ga-click="Orgs, go to person, location:profile people module; text:username" data-hovercard-type="user" data-hovercard-url="/users/Himanshuu03/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/orgs/Open-Source-Chandigarh/people/Himanshuu03">
-            <img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/100996941?s=70&amp;v=4" width="35" height="35" alt="@Himanshuu03">
-</a>
+<a class="member-avatar" data-ga-click="Orgs, go to person, location:profile people module; text:username" data-hovercard-type="user" data-hovercard-url="/users/ajeetraina/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/orgs/Open-Source-Chandigarh/people/ajeetraina">
+<img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/313480?s=70&amp;v=4" width="55" height="55" alt="@ajeetraina">
+</a>       
+<a class="member-avatar" data-ga-click="Orgs, go to person, location:profile people module; text:username" data-hovercard-type="user" data-hovercard-url="/users/Monit1974/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/orgs/Open-Source-Chandigarh/people/Monit1974">
+<img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/106236449?s=70&amp;v=4" width="55" height="55" alt="@Monit1974">
+</a>  
+<a class="member-avatar" data-ga-click="Orgs, go to person, location:profile people module; text:username" data-hovercard-type="user" data-hovercard-url="/users/MahajanPreksha/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/orgs/Open-Source-Chandigarh/people/MahajanPreksha">
+<img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/121788863?s=70&amp;v=4" width="55" height="55" alt="@MahajanPreksha">
+</a>  
+<a class="member-avatar" data-ga-click="Orgs, go to person, location:profile people module; text:username" data-hovercard-type="user" data-hovercard-url="/users/guranshdeol/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/orgs/Open-Source-Chandigarh/people/guranshdeol">
+<img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/91736425?s=96&amp;v=4" width="55" height="55" alt="@guranshdeol">
+</a>  
+
+<a class="member-avatar" data-ga-click="Orgs, go to person, location:profile people module; text:username" data-hovercard-type="user" data-hovercard-url="/users/abhay-ag/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/orgs/Open-Source-Chandigarh/people/abhay-ag">
+<img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/97821733?s=96&amp;v=4" width="55" height="55" alt="@abhay-ag">
+</a>  
+<a class="member-avatar" data-ga-click="Orgs, go to person, location:profile people module; text:username" data-hovercard-type="user" data-hovercard-url="/users/priymaggarwal18/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/orgs/Open-Source-Chandigarh/people/priyamaggarwal18">
+<img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/122437027?s=96&amp;v=4" width="55" height="55" alt="@priyamaggarwal18">
+</a>  
       </div>
         <div data-view-component="true" class="mt-2">
           <a text="small" href="/orgs/Open-Source-Chandigarh/people" data-view-component="true" class="Link">
