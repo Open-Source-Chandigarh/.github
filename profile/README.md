@@ -10,7 +10,7 @@
 # 🙋‍♀️ A Short Introduction - Who Are We?
 <!---![](Images/Open-Source-Chandigarh.jpeg)--->
 <!---![Open-Source-Chandigarh](https://user-images.githubusercontent.com/91736425/184363962-9105fbaa-9dcd-4503-ab75-3aa731e769f0.jpeg)--->
-![O-S-C](https://user-images.githubusercontent.com/91736425/184543786-696b598e-2d74-444a-8da9-8a1156b8967a.jpeg)
+![O-S-C](https://github.com/Open-Source-Chandigarh/.github/blob/main/profile/Images/logo_osc.png)
 > ### Open Source Chandigarh is a dynamic and vibrant tech community, powered by the intellectual powerhouse of Chitkara University. Our community thrives with the generous support of industry titans, including Apache Local Community Indore, Docker Inc., GitHub, Collabnix, OpsTree Solutions and Webiny.
 
 <!---🌈 Contribution guidelines - how can the community get involved?
