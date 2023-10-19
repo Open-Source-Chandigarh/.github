@@ -48,7 +48,10 @@
 </a>  
 <a class="member-avatar" data-ga-click="Orgs, go to person, location:profile people module; text:username" data-hovercard-type="user" data-hovercard-url="/users/priymaggarwal18/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/orgs/Open-Source-Chandigarh/people/priyamaggarwal18">
 <img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/122437027?s=96&amp;v=4" width="55" height="55" alt="@priyamaggarwal18">
-</a>  
+</a> 
+<a class="member-avatar" data-ga-click="Orgs, go to person, location:profile people module; text:username" data-hovercard-type="user" data-hovercard-url="/users/hollermay/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/orgs/Open-Source-Chandigarh/people/hollermay">
+<img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/122338009?s=96&amp;v=4" width="55" height="55" alt="@hollermay">
+</a>
       </div>
         <div data-view-component="true" class="mt-2">
           <a text="small" href="/orgs/Open-Source-Chandigarh/people" data-view-component="true" class="Link">
