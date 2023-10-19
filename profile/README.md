@@ -1,4 +1,3 @@
-https://img.shields.io/badge/any_text-you_like-blue
 <p>
   <img src="https://img.shields.io/badge/Open Source-❤️-white"/>
 </p>
