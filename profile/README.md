@@ -1,3 +1,7 @@
+https://img.shields.io/badge/any_text-you_like-blue
+<p>
+  <img src="https://img.shields.io/badge/Open Source-❤️-white"/>
+</p>
 ## Hey Tech Enthusiasts! 👋
 
 # 🙋‍♀️ A Short Introduction - Who Are We?
