@@ -1,5 +1,5 @@
 <p>
-  <img src="https://img.shields.io/badge/Learn-Red"/>
+  <img src="https://img.shields.io/badge/Learn-%20-Red"/>
   <img src="https://img.shields.io/badge/Open Source-❤️-white"/>
 </p>
 ## Hey Tech Enthusiasts! 👋
