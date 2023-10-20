@@ -56,6 +56,6 @@
       </div>
       <br>
         <div data-view-component="true" class="mt-2">
-          <a text="small" href="/orgs/Open-Source-Chandigarh/people" data-view-component="true" class="Link">
+          <a text="small" href="https://github.com/orgs/Open-Source-Chandigarh/people" data-view-component="true" class="Link">
             <h6>View All</h6></a></div> 
 
