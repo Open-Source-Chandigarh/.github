@@ -55,7 +55,7 @@
 <img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/100996941?s=70&amp;v=4" width="55" height="55" alt="@Himanshuu03">
       </div>
       <br>
+       <a text="small" href="https://github.com/orgs/Open-Source-Chandigarh/people" data-view-component="true" class="Link">
         <div data-view-component="true" class="mt-2">
-          <a text="small" href="https://github.com/orgs/Open-Source-Chandigarh/people" data-view-component="true" class="Link">
-            <h6>View All</h6></a></div> 
+            View All</div> </a>
 
