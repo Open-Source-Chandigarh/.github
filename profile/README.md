@@ -11,15 +11,17 @@
 <!---![](Images/Open-Source-Chandigarh.jpeg)--->
 <!---![Open-Source-Chandigarh](https://user-images.githubusercontent.com/91736425/184363962-9105fbaa-9dcd-4503-ab75-3aa731e769f0.jpeg)--->
 ![O-S-C](./Images/osc-logo-new.png)
-> #### Open Source Chandigarh is a dynamic tech community committed to redefining the Open Source and technology ecosystem in Chandigarh, Punjab region and beyond. Established in 2022, the community has grown to over 5,000 members, fostering a strong culture of collaboration, learning and innovation.
->
-> #### We actively operate a sub-community at Chitkara University, Punjab, known as Open Source Chandigarh powered by Chitkara University, where we empower students and tech enthusiasts through engaging and impactful initiatives.
->
-> #### With 50+ events organized to date, including hackathons, hands-on workshops, expert talks, competitions, etc., we’ve created a thriving space for developers and learners alike. We've also built strong relationships through 20+ collaborations with various communities and organizations such as GitHub, Apache, Local Community Indore, Collabnix, Docker Inc., Opstree Solutions and Webiny.
-> 
-> #### Our mission is to foster open collaboration, support contributors at all levels and build a future-ready tech ecosystem grounded in the values of open source.
-> 
-> #### Driven by our motto — "Learn. Foster. Express. Because Open Source is Fun." — we strive to create a culture where every voice is valued, curiosity is encouraged and technology becomes a tool for change and innovation.
+<h4>
+Open Source Chandigarh is a dynamic tech community committed to redefining the Open Source and technology ecosystem in Chandigarh, Punjab region and beyond. Established in 2022, the community has grown to over 5,000 members, fostering a strong culture of collaboration, learning and innovation.
+
+We actively operate a sub-community at Chitkara University, Punjab, known as Open Source Chandigarh powered by Chitkara University, where we empower students and tech enthusiasts through engaging and impactful initiatives.
+
+With 50+ events organized to date, including hackathons, hands-on workshops, expert talks, competitions, etc., we’ve created a thriving space for developers and learners alike. We've also built strong relationships through 20+ collaborations with various communities and organizations such as GitHub, Apache, Local Community Indore, Collabnix, Docker Inc., Opstree Solutions and Webiny.
+
+Our mission is to foster open collaboration, support contributors at all levels and build a future-ready tech ecosystem grounded in the values of open source.
+
+Driven by our motto — "Learn. Foster. Express. Because Open Source is Fun." — we strive to create a culture where every voice is valued, curiosity is encouraged and technology becomes a tool for change and innovation.
+</h4>
 
 <!---🌈 Contribution guidelines - how can the community get involved?
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
