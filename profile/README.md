@@ -28,14 +28,16 @@ Driven by our motto — "Learn. Foster. Express. Because Open Source is Fun." �
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 --->
-## 🌐 Socials: (TO BE UPDATED)
+## 🌐 Socials:
 <p align="left">
-<a href="https://www.linkedin.com/company/open-source-chandigarh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="company/open-source-chandigarh" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.com/invite/gQHsr8EHzr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/invite/gQHsr8EHzr" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/company/open-source-chandigarh/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/linkedin/linkedin-original.svg" height="30" width="40" /></a>
+<a href="https://www.whatsapp.com/channel/0029Va5VPcs42Dcg5T1vaB12" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="whatsapp" height="30" width="40" /></a>
+<a href="https://www.instagram.com/opensourcechandigarh/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="opensourcechandigarh" height="30" width="40" /></a>
+<a href="https://x.com/OSChandigarh" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/twitter/twitter-original.svg" alt="OSChandigarh" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@opensourcechandigarh" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@opensourcechandigarh" height="30" width="40" /></a>
+<a href="https://discord.gg/CqD6HY732h" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" /></a>
 </p>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Open-Source-Chandigarh&label=Profile%20views&color=ff0000&style=flat" alt="Profile Views" />
 </p>
-
-## 🧑‍💻 Projects: (TO BE ADDED)
