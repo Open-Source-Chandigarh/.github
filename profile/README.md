@@ -8,7 +8,9 @@
 
 
 # 🙋‍♀️ A Short Introduction - Who Are We?
-![O-S-C](./Images/osc-logo-new.png)
+<div align="center">
+  <img src="./Images/osc-logo-new.png" alt="O-S-C" />
+</div>
 
 Open Source Chandigarh is a dynamic tech community committed to redefining the Open Source and technology ecosystem in Chandigarh, Punjab region and beyond. Established in 2022, the community has grown to over 5,000 members, fostering a strong culture of collaboration, learning and innovation.
 
