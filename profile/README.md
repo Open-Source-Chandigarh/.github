@@ -20,7 +20,7 @@ Our mission is to foster open collaboration, support contributors at all levels 
 
 Driven by our motto — "Learn. Foster. Express. Because Open Source is Fun." — we strive to create a culture where every voice is valued, curiosity is encouraged and technology becomes a tool for change and innovation.
 
-# 🌐 Socials:
+# 🌐 Socials
 <p align="left">
 <a href="https://www.linkedin.com/company/open-source-chandigarh/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/linkedin/linkedin-original.svg" height="30" width="40" /></a>
 <a href="https://www.whatsapp.com/channel/0029Va5VPcs42Dcg5T1vaB12" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="whatsapp" height="30" width="40" /></a>
