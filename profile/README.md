@@ -28,10 +28,10 @@ Driven by our motto â€” "Learn. Foster. Express. Because Open Source is Fun." â€
 <a href="https://www.whatsapp.com/channel/0029Va5VPcs42Dcg5T1vaB12" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="whatsapp" height="30" width="40" /></a>
 <a href="https://www.instagram.com/opensourcechandigarh/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="opensourcechandigarh" height="30" width="40" /></a>
 <a href="https://x.com/OSChandigarh" target="_blank">
-  <img align="center" width="40" height="30" alt="OSChandigarh" src="https://github.com/user-attachments/assets/dbadd653-1a61-41c1-9b32-22f718271e34" />
+  <img align="center" width="30" height="40" alt="OSChandigarh" src="https://github.com/user-attachments/assets/dbadd653-1a61-41c1-9b32-22f718271e34" />
 </a>
 <a href="https://www.youtube.com/@opensourcechandigarh" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@opensourcechandigarh" height="30" width="40" /></a>
-<a href="https://discord.gg/CqD6HY732h" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="30" /></a>
+<a href="https://discord.gg/CqD6HY732h" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" /></a>
 </p>
 
 <br>
