@@ -1,42 +1,65 @@
-# Open Source Chandigarh 
-<p>
-  <img src="https://img.shields.io/badge/Learn -✨-ff0000"/>
-  <img src="https://img.shields.io/badge/Foster -✨-ff0000"/>
-  <img src="https://img.shields.io/badge/Express -✨-ff0000"/>
-  <img src="https://img.shields.io/badge/Open Source is Fun-❤️-white"/>
+# Open Source Chandigarh
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Learn-✨-ff0000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Foster-✨-ff0000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Express-✨-ff0000?style=for-the-badge"/>
 </p>
 
+<p align="center">
+  "Because Open Source is Fun ❤️"
+</p>
 
-# 🙋‍♀️ A Short Introduction - Who Are We?
 <div align="center">
-  <img src="./Images/osc-logo-new.png" alt="O-S-C" />
+  <img src="./Images/osc-logo-new.png" alt="Open Source Chandigarh Logo" width="400px"/>
 </div>
-
-Open Source Chandigarh is a dynamic tech community committed to redefining the Open Source and technology ecosystem in Chandigarh, Punjab region and beyond. Established in 2022, the community has grown to over 5,000 members, fostering a strong culture of collaboration, learning and innovation.
-
-We actively operate a sub-community at Chitkara University, Punjab, known as Open Source Chandigarh powered by Chitkara University, where we empower students and tech enthusiasts through engaging and impactful initiatives.
-
-With 50+ events organized to date, including hackathons, hands-on workshops, expert talks, competitions, etc., we’ve created a thriving space for developers and learners alike. We've also built strong relationships through 20+ collaborations with various communities and organizations such as GitHub, Apache, Local Community Indore, Collabnix, Docker Inc., Opstree Solutions and Webiny.
-
-Our mission is to foster open collaboration, support contributors at all levels and build a future-ready tech ecosystem grounded in the values of open source.
-
-Driven by our motto — "Learn. Foster. Express. Because Open Source is Fun." — we strive to create a culture where every voice is valued, curiosity is encouraged and technology becomes a tool for change and innovation.
-
-# 🌐 Socials
-<p align="left">
-<a href="https://www.linkedin.com/company/open-source-chandigarh/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/linkedin/linkedin-original.svg" height="30" width="40" /></a>
-<a href="https://www.whatsapp.com/channel/0029Va5VPcs42Dcg5T1vaB12" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="whatsapp" height="30" width="40" /></a>
-<a href="https://www.instagram.com/opensourcechandigarh/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="opensourcechandigarh" height="30" width="40" /></a>
-<a href="https://x.com/OSChandigarh" target="_blank"><img align="center" width="30" height="50" alt="OSChandigarh" src="https://github.com/user-attachments/assets/dbadd653-1a61-41c1-9b32-22f718271e34" /></a>
-<a href="https://www.youtube.com/@opensourcechandigarh" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@opensourcechandigarh" height="30" width="40" /></a>
-<a href="https://discord.gg/CqD6HY732h" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" /></a>
-</p>
 
 <br>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Open-Source-Chandigarh&label=Profile%20views&color=ff0000&style=flat" alt="Profile Views" />
-</p>
+**Open Source Chandigarh** is a dynamic tech community committed to redefining the Open Source and technology ecosystem in the Chandigarh and Punjab region.
 
-# Projects
-Check out our Open Source projects below! 👇🏻
+---
+
+### 🙋‍♀️ Who We Are
+
+Established in 2022, we have grown into a thriving hub for developers, students, and tech enthusiasts.
+
+- **Community Strength:** Over **5,000+** members and growing.
+- **Impactful Events:** Hosted **50+** events including hackathons, workshops, and expert talks.
+- **Strong Collaborations:** Partnered with **20+** incredible organizations like **GitHub, Apache, Docker Inc.,** and more.
+- **Student Chapter:** Actively empowering the next generation of tech leaders at **Chitkara University, Punjab**.
+
+---
+
+### 🚀 Get Involved!
+
+Ready to join? Here’s how you can become a part of our community:
+
+1.  **💬 Join the Conversation:** Our [**WhatsApp Channel**](https://www.whatsapp.com/channel/0029Va5VPcs42Dcg5T1vaB12) and [**Discord Server**](https://discord.gg/CqD6HY732h) are the best places for live discussions and networking.
+2.  **🔔 Stay Updated:** Follow us on [**LinkedIn**](https://www.linkedin.com/company/open-source-chandigarh/) and [**X (Twitter)**](https://x.com/OSChandigarh) for announcements about upcoming events.
+3.  **CONTRIBUTE:** Check out our projects below! Look for issues tagged `good first issue` to start.
+
+---
+
+### 🛠️ Our Projects
+
+Here are some of the open-source projects built and maintained by our community.
+
+| Project                                                                                  | Description                                                              | Tech Stack           | Repository Stars |
+| ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ | -------------------- | :--------------: |
+| [**Euphoria-Check**](https://github.com/Open-Source-Chandigarh/Euphoria-Check)           | A PERMA meter to measure happiness, built with Node.js & Express.        | `EJS`, `Node.js`     |      ⭐ 26       |
+| [**U-Move-Scan-to-Ride**](https://github.com/Open-Source-Chandigarh/U-Move-Scan-to-Ride-Service) | A smart, green campus navigation prototype.                              | `CSS`, `HTML`        |       ⭐ 1       |
+| [**Streamix-IMDb**](https://github.com/Open-Source-Chandigarh/Streamix-IMDb)             | A collaborative platform for movie & TV show enthusiasts to rate/review. | `HTML`, `JavaScript` |      ⭐ 14       |
+| [**Cafe-Management**](https://github.com/Open-Source-Chandigarh/Cafe-Management)         | A management system for cafes.                                           | `HTML`, `CSS`        |       ⭐ 7       |
+
+---
+
+### 🌐 Find Us On Social Media
+
+<p align="center">
+  <a href="https://www.linkedin.com/company/open-source-chandigarh/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://x.com/OSChandigarh" target="_blank"><img src="https://img.shields.io/badge/X (Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+  <a href="https://www.instagram.com/opensourcechandigarh/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://www.youtube.com/@opensourcechandigarh" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+  <a href="mailto:opensourcechandigarh@chitkara.edu.in"><img src="https://img.shields.io/badge/Email_Us-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
